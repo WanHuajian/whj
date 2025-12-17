@@ -1,3 +1,3 @@
-这是一个用于打印电气操作票的C# WinForms应用程序，通过PrintDocument使用虚拟打印机Microsoft Print to PDF将RichTextBox中的文本打印至PDF文件中。
+通过PrintDocument使用虚拟打印机Microsoft Print to PDF将RichTextBox中的文本打印至PDF文件中。
 支持多个任务多行文本连续打印。
 核心代码为：打印_类、打印_状态管理_类、打印_页面计算_类、打印_页面绘制_类。
